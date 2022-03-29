@@ -1,10 +1,19 @@
 # GIS_R_Classes
 
-# Code created for a 6 week GIS and data preparation course. 
+Code created for a 6 week GIS and data preparation course. 
 
-# Key concepts data preparation: 
-# Joins, variable transformations, working with date and time, engineer new variables, long to wide format, wide to long format. 
+### Key concepts data preparation: 
 
-# Key libraries GIS:
+- Joins
+- Variable transformations
+- Working with date and time 
+- Engineer new variables 
+- Long to wide format
+- Wide to long format 
 
-# Leaflet, ggmap, ggplot2, sf. 
+### Key libraries GIS:
+
+- Leaflet
+- ggmap
+- ggplot2
+- sf. 
